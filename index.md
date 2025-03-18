@@ -1,11 +1,9 @@
 ---
 layout: default
-mathjax: true
----
----
 title: "The Effect of TCJA 2017 on Capital Investment"
 author: "Yizhe Huang"
 date: "March 2025"
+mathjax: true
 ---
 
 # **Abstract**  
